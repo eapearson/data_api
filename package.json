@@ -1,0 +1,13 @@
+{
+    "name": "data-api-javascript-clients",
+    "description": "Javascript clients for the data api",
+    "keywords": ["data", "api", "client"],
+    "author": "kbase",
+    "contributors": [],
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/kbase/data_api"
+    },
+    "dependencies": {},
+    "license": "SEE LICENSE IN LICENSE"
+}
