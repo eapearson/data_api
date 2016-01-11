@@ -1,5 +1,6 @@
 {
-    "name": "data-api-javascript-clients",
+    "name": "kbase-data-api",
+    "version": "0.1.0",
     "description": "Javascript clients for the data api",
     "keywords": ["data", "api", "client"],
     "author": "kbase",
